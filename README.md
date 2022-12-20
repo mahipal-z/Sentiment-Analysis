@@ -1,6 +1,8 @@
 # Description
 The goal of the project is to develop a machine learning model that can accurately classify the sentiment of product reviews as either positive or negative.
 
+To review the codes refer the notebook here: https://github.com/mahipal-z/Sentiment-Analysis/blob/main/notebook.ipynb
+
 # Project Conclusion
 
 * Our model accurately predicts 2/3rd of the product sentiment polarities (accuracy = 67%). This gives us a good confidence in labeling satifaction rate of product reviewers.
