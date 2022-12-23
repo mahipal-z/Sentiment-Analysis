@@ -11,5 +11,5 @@ To review the codes, refer the notebook here: https://github.com/mahipal-z/Senti
 
 ## Next steps
 
-* Other promising classification models such as SVM, RandomForestClassifier of Neural Network model should be tried to see which gives the best accuracy.
+* Other promising classification models such as SVM, RandomForestClassifier or Neural Network model should be tried to see which gives the best accuracy.
 * If more information is provided about prediction of which specific label (ie, positive or negetive sentiment) is more important for our business case, model can be further tuned to achieve either higher precision or recall value for that particular class.
